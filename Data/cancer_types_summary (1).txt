@@ -1,0 +1,150 @@
+Cancer Study	Alteration Frequency	Alteration Type	Alteration Count
+Uterine Corpus Endometrial Carcinoma (TCGA, PanCancer Atlas)	2.4574669187145557	multiple	13
+Uterine Corpus Endometrial Carcinoma (TCGA, PanCancer Atlas)	6.427221172022684	mrnaExpressionLow	34
+Uterine Corpus Endometrial Carcinoma (TCGA, PanCancer Atlas)	4.536862003780719	mrnaExpressionHigh	24
+Uterine Corpus Endometrial Carcinoma (TCGA, PanCancer Atlas)	0.1890359168241966	homdel	1
+Uterine Corpus Endometrial Carcinoma (TCGA, PanCancer Atlas)	2.835538752362949	amp	15
+Uterine Corpus Endometrial Carcinoma (TCGA, PanCancer Atlas)	8.695652173913043	mutated	46
+Uterine Carcinosarcoma (TCGA, PanCancer Atlas)	1.7543859649122806	multiple	1
+Uterine Carcinosarcoma (TCGA, PanCancer Atlas)	8.771929824561402	mrnaExpressionLow	5
+Uterine Carcinosarcoma (TCGA, PanCancer Atlas)	3.508771929824561	mrnaExpressionHigh	2
+Uterine Carcinosarcoma (TCGA, PanCancer Atlas)	8.771929824561402	amp	5
+Uterine Carcinosarcoma (TCGA, PanCancer Atlas)	1.7543859649122806	mutated	1
+Skin Cutaneous Melanoma (TCGA, PanCancer Atlas)	1.3513513513513513	multiple	6
+Skin Cutaneous Melanoma (TCGA, PanCancer Atlas)	4.72972972972973	mrnaExpressionLow	21
+Skin Cutaneous Melanoma (TCGA, PanCancer Atlas)	6.081081081081082	mrnaExpressionHigh	27
+Skin Cutaneous Melanoma (TCGA, PanCancer Atlas)	0.45045045045045046	amp	2
+Skin Cutaneous Melanoma (TCGA, PanCancer Atlas)	9.684684684684685	mutated	43
+Stomach Adenocarcinoma (TCGA, PanCancer Atlas)	0.6818181818181818	multiple	3
+Stomach Adenocarcinoma (TCGA, PanCancer Atlas)	6.363636363636363	mrnaExpressionLow	28
+Stomach Adenocarcinoma (TCGA, PanCancer Atlas)	5.454545454545454	mrnaExpressionHigh	24
+Stomach Adenocarcinoma (TCGA, PanCancer Atlas)	0.45454545454545453	homdel	2
+Stomach Adenocarcinoma (TCGA, PanCancer Atlas)	1.3636363636363635	amp	6
+Stomach Adenocarcinoma (TCGA, PanCancer Atlas)	5.454545454545454	mutated	24
+Bladder Urothelial Carcinoma (TCGA, PanCancer Atlas)	1.4598540145985401	multiple	6
+Bladder Urothelial Carcinoma (TCGA, PanCancer Atlas)	6.81265206812652	mrnaExpressionLow	28
+Bladder Urothelial Carcinoma (TCGA, PanCancer Atlas)	5.109489051094891	mrnaExpressionHigh	21
+Bladder Urothelial Carcinoma (TCGA, PanCancer Atlas)	0.24330900243309003	homdel	1
+Bladder Urothelial Carcinoma (TCGA, PanCancer Atlas)	1.4598540145985401	amp	6
+Bladder Urothelial Carcinoma (TCGA, PanCancer Atlas)	3.8929440389294405	mutated	16
+Diffuse Large B-Cell Lymphoma (TCGA, PanCancer Atlas)	8.333333333333332	mrnaExpressionLow	4
+Diffuse Large B-Cell Lymphoma (TCGA, PanCancer Atlas)	6.25	mrnaExpressionHigh	3
+Diffuse Large B-Cell Lymphoma (TCGA, PanCancer Atlas)	4.166666666666666	amp	2
+Colorectal Adenocarcinoma (TCGA, PanCancer Atlas)	0.6734006734006733	multiple	4
+Colorectal Adenocarcinoma (TCGA, PanCancer Atlas)	1.0101010101010102	protExpressionLow	6
+Colorectal Adenocarcinoma (TCGA, PanCancer Atlas)	0.16835016835016833	protExpressionHigh	1
+Colorectal Adenocarcinoma (TCGA, PanCancer Atlas)	6.228956228956229	mrnaExpressionLow	37
+Colorectal Adenocarcinoma (TCGA, PanCancer Atlas)	5.723905723905724	mrnaExpressionHigh	34
+Colorectal Adenocarcinoma (TCGA, PanCancer Atlas)	0.33670033670033667	homdel	2
+Colorectal Adenocarcinoma (TCGA, PanCancer Atlas)	0.16835016835016833	amp	1
+Colorectal Adenocarcinoma (TCGA, PanCancer Atlas)	4.040404040404041	mutated	24
+Lung Adenocarcinoma (TCGA, PanCancer Atlas)	1.0600706713780919	multiple	6
+Lung Adenocarcinoma (TCGA, PanCancer Atlas)	7.597173144876325	mrnaExpressionLow	43
+Lung Adenocarcinoma (TCGA, PanCancer Atlas)	3.0035335689045937	mrnaExpressionHigh	17
+Lung Adenocarcinoma (TCGA, PanCancer Atlas)	0.7067137809187279	homdel	4
+Lung Adenocarcinoma (TCGA, PanCancer Atlas)	2.1201413427561837	amp	12
+Lung Adenocarcinoma (TCGA, PanCancer Atlas)	3.53356890459364	mutated	20
+Liver Hepatocellular Carcinoma (TCGA, PanCancer Atlas)	0.2688172043010753	multiple	1
+Liver Hepatocellular Carcinoma (TCGA, PanCancer Atlas)	11.29032258064516	mrnaExpressionLow	42
+Liver Hepatocellular Carcinoma (TCGA, PanCancer Atlas)	3.763440860215054	mrnaExpressionHigh	14
+Liver Hepatocellular Carcinoma (TCGA, PanCancer Atlas)	0.2688172043010753	homdel	1
+Liver Hepatocellular Carcinoma (TCGA, PanCancer Atlas)	0.5376344086021506	amp	2
+Liver Hepatocellular Carcinoma (TCGA, PanCancer Atlas)	1.881720430107527	mutated	7
+Breast Invasive Carcinoma (TCGA, PanCancer Atlas)	0.7380073800738007	multiple	8
+Breast Invasive Carcinoma (TCGA, PanCancer Atlas)	0.09225092250922509	protExpressionLow	1
+Breast Invasive Carcinoma (TCGA, PanCancer Atlas)	0.6457564575645757	protExpressionHigh	7
+Breast Invasive Carcinoma (TCGA, PanCancer Atlas)	6.088560885608856	mrnaExpressionLow	66
+Breast Invasive Carcinoma (TCGA, PanCancer Atlas)	6.918819188191883	mrnaExpressionHigh	75
+Breast Invasive Carcinoma (TCGA, PanCancer Atlas)	0.18450184501845018	homdel	2
+Breast Invasive Carcinoma (TCGA, PanCancer Atlas)	1.8450184501845017	amp	20
+Breast Invasive Carcinoma (TCGA, PanCancer Atlas)	0.18450184501845018	structuralVariant	2
+Breast Invasive Carcinoma (TCGA, PanCancer Atlas)	1.107011070110701	mutated	12
+Cervical Squamous Cell Carcinoma (TCGA, PanCancer Atlas)	1.0101010101010102	multiple	3
+Cervical Squamous Cell Carcinoma (TCGA, PanCancer Atlas)	10.437710437710438	mrnaExpressionLow	31
+Cervical Squamous Cell Carcinoma (TCGA, PanCancer Atlas)	2.6936026936026933	mrnaExpressionHigh	8
+Cervical Squamous Cell Carcinoma (TCGA, PanCancer Atlas)	2.0202020202020203	amp	6
+Cervical Squamous Cell Carcinoma (TCGA, PanCancer Atlas)	1.0101010101010102	mutated	3
+Lung Squamous Cell Carcinoma (TCGA, PanCancer Atlas)	1.0266940451745379	multiple	5
+Lung Squamous Cell Carcinoma (TCGA, PanCancer Atlas)	9.650924024640657	mrnaExpressionLow	47
+Lung Squamous Cell Carcinoma (TCGA, PanCancer Atlas)	1.8480492813141685	mrnaExpressionHigh	9
+Lung Squamous Cell Carcinoma (TCGA, PanCancer Atlas)	0.41067761806981523	homdel	2
+Lung Squamous Cell Carcinoma (TCGA, PanCancer Atlas)	2.0533880903490758	amp	10
+Lung Squamous Cell Carcinoma (TCGA, PanCancer Atlas)	1.4373716632443532	mutated	7
+Brain Lower Grade Glioma (TCGA, PanCancer Atlas)	9.922178988326849	mrnaExpressionLow	51
+Brain Lower Grade Glioma (TCGA, PanCancer Atlas)	3.6964980544747084	mrnaExpressionHigh	19
+Brain Lower Grade Glioma (TCGA, PanCancer Atlas)	0.7782101167315175	amp	4
+Brain Lower Grade Glioma (TCGA, PanCancer Atlas)	1.3618677042801557	mutated	7
+Head and Neck Squamous Cell Carcinoma (TCGA, PanCancer Atlas)	0.5736137667304015	multiple	3
+Head and Neck Squamous Cell Carcinoma (TCGA, PanCancer Atlas)	6.692160611854685	mrnaExpressionLow	35
+Head and Neck Squamous Cell Carcinoma (TCGA, PanCancer Atlas)	4.015296367112811	mrnaExpressionHigh	21
+Head and Neck Squamous Cell Carcinoma (TCGA, PanCancer Atlas)	0.5736137667304015	homdel	3
+Head and Neck Squamous Cell Carcinoma (TCGA, PanCancer Atlas)	2.294455066921606	amp	12
+Head and Neck Squamous Cell Carcinoma (TCGA, PanCancer Atlas)	1.147227533460803	mutated	6
+Kidney Renal Clear Cell Carcinoma (TCGA, PanCancer Atlas)	0.390625	multiple	2
+Kidney Renal Clear Cell Carcinoma (TCGA, PanCancer Atlas)	11.1328125	mrnaExpressionLow	57
+Kidney Renal Clear Cell Carcinoma (TCGA, PanCancer Atlas)	2.1484375	mrnaExpressionHigh	11
+Kidney Renal Clear Cell Carcinoma (TCGA, PanCancer Atlas)	1.5625	mutated	8
+Uveal Melanoma (TCGA, PanCancer Atlas)	12.5	mrnaExpressionLow	10
+Uveal Melanoma (TCGA, PanCancer Atlas)	2.5	mrnaExpressionHigh	2
+Kidney Renal Papillary Cell Carcinoma (TCGA, PanCancer Atlas)	0.35335689045936397	multiple	1
+Kidney Renal Papillary Cell Carcinoma (TCGA, PanCancer Atlas)	8.480565371024735	mrnaExpressionLow	24
+Kidney Renal Papillary Cell Carcinoma (TCGA, PanCancer Atlas)	4.240282685512367	mrnaExpressionHigh	12
+Kidney Renal Papillary Cell Carcinoma (TCGA, PanCancer Atlas)	0.35335689045936397	homdel	1
+Kidney Renal Papillary Cell Carcinoma (TCGA, PanCancer Atlas)	0.35335689045936397	amp	1
+Kidney Renal Papillary Cell Carcinoma (TCGA, PanCancer Atlas)	1.0600706713780919	mutated	3
+Thyroid Carcinoma (TCGA, PanCancer Atlas)	7.8	mrnaExpressionLow	39
+Thyroid Carcinoma (TCGA, PanCancer Atlas)	6.800000000000001	mrnaExpressionHigh	34
+Thyroid Carcinoma (TCGA, PanCancer Atlas)	0.2	mutated	1
+Ovarian Serous Cystadenocarcinoma (TCGA, PanCancer Atlas)	0.3418803418803419	multiple	2
+Ovarian Serous Cystadenocarcinoma (TCGA, PanCancer Atlas)	1.0256410256410255	protExpressionLow	6
+Ovarian Serous Cystadenocarcinoma (TCGA, PanCancer Atlas)	1.7094017094017095	protExpressionHigh	10
+Ovarian Serous Cystadenocarcinoma (TCGA, PanCancer Atlas)	4.786324786324787	mrnaExpressionLow	28
+Ovarian Serous Cystadenocarcinoma (TCGA, PanCancer Atlas)	1.5384615384615385	mrnaExpressionHigh	9
+Ovarian Serous Cystadenocarcinoma (TCGA, PanCancer Atlas)	0.3418803418803419	homdel	2
+Ovarian Serous Cystadenocarcinoma (TCGA, PanCancer Atlas)	4.273504273504273	amp	25
+Ovarian Serous Cystadenocarcinoma (TCGA, PanCancer Atlas)	0.6837606837606838	mutated	4
+Pancreatic Adenocarcinoma (TCGA, PanCancer Atlas)	10.326086956521738	mrnaExpressionLow	19
+Pancreatic Adenocarcinoma (TCGA, PanCancer Atlas)	1.6304347826086956	mrnaExpressionHigh	3
+Pancreatic Adenocarcinoma (TCGA, PanCancer Atlas)	1.0869565217391304	homdel	2
+Pancreatic Adenocarcinoma (TCGA, PanCancer Atlas)	1.6304347826086956	mutated	3
+Prostate Adenocarcinoma (TCGA, PanCancer Atlas)	0.4048582995951417	multiple	2
+Prostate Adenocarcinoma (TCGA, PanCancer Atlas)	8.704453441295547	mrnaExpressionLow	43
+Prostate Adenocarcinoma (TCGA, PanCancer Atlas)	3.8461538461538463	mrnaExpressionHigh	19
+Prostate Adenocarcinoma (TCGA, PanCancer Atlas)	0.20242914979757085	homdel	1
+Prostate Adenocarcinoma (TCGA, PanCancer Atlas)	0.8097165991902834	amp	4
+Cholangiocarcinoma (TCGA, PanCancer Atlas)	11.11111111111111	mrnaExpressionLow	4
+Cholangiocarcinoma (TCGA, PanCancer Atlas)	2.7777777777777777	amp	1
+Thymoma (TCGA, PanCancer Atlas)	11.38211382113821	mrnaExpressionLow	14
+Thymoma (TCGA, PanCancer Atlas)	2.4390243902439024	mrnaExpressionHigh	3
+Mesothelioma (TCGA, PanCancer Atlas)	4.597701149425287	mrnaExpressionLow	4
+Mesothelioma (TCGA, PanCancer Atlas)	6.896551724137931	mrnaExpressionHigh	6
+Mesothelioma (TCGA, PanCancer Atlas)	1.1494252873563218	homdel	1
+Mesothelioma (TCGA, PanCancer Atlas)	1.1494252873563218	mutated	1
+Esophageal Adenocarcinoma (TCGA, PanCancer Atlas)	1.098901098901099	multiple	2
+Esophageal Adenocarcinoma (TCGA, PanCancer Atlas)	4.395604395604396	mrnaExpressionLow	8
+Esophageal Adenocarcinoma (TCGA, PanCancer Atlas)	4.395604395604396	mrnaExpressionHigh	8
+Esophageal Adenocarcinoma (TCGA, PanCancer Atlas)	1.6483516483516485	amp	3
+Esophageal Adenocarcinoma (TCGA, PanCancer Atlas)	1.6483516483516485	mutated	3
+Sarcoma (TCGA, PanCancer Atlas)	4.313725490196078	mrnaExpressionLow	11
+Sarcoma (TCGA, PanCancer Atlas)	5.098039215686274	mrnaExpressionHigh	13
+Sarcoma (TCGA, PanCancer Atlas)	2.7450980392156863	amp	7
+Sarcoma (TCGA, PanCancer Atlas)	0.7843137254901961	mutated	2
+Pheochromocytoma and Paraganglioma (TCGA, PanCancer Atlas)	4.49438202247191	mrnaExpressionLow	8
+Pheochromocytoma and Paraganglioma (TCGA, PanCancer Atlas)	7.303370786516854	mrnaExpressionHigh	13
+Pheochromocytoma and Paraganglioma (TCGA, PanCancer Atlas)	1.1235955056179776	amp	2
+Testicular Germ Cell Tumors (TCGA, PanCancer Atlas)	8.724832214765101	mrnaExpressionLow	13
+Testicular Germ Cell Tumors (TCGA, PanCancer Atlas)	4.026845637583892	mrnaExpressionHigh	6
+Acute Myeloid Leukemia (TCGA, PanCancer Atlas)	0.5	multiple	1
+Acute Myeloid Leukemia (TCGA, PanCancer Atlas)	6	mrnaExpressionLow	12
+Acute Myeloid Leukemia (TCGA, PanCancer Atlas)	4.5	mrnaExpressionHigh	9
+Acute Myeloid Leukemia (TCGA, PanCancer Atlas)	0.5	mutated	1
+Kidney Chromophobe (TCGA, PanCancer Atlas)	9.230769230769232	mrnaExpressionHigh	6
+Kidney Chromophobe (TCGA, PanCancer Atlas)	1.5384615384615385	mutated	1
+Adrenocortical Carcinoma (TCGA, PanCancer Atlas)	5.4945054945054945	mrnaExpressionLow	5
+Adrenocortical Carcinoma (TCGA, PanCancer Atlas)	2.197802197802198	mrnaExpressionHigh	2
+Adrenocortical Carcinoma (TCGA, PanCancer Atlas)	1.098901098901099	homdel	1
+Adrenocortical Carcinoma (TCGA, PanCancer Atlas)	1.098901098901099	amp	1
+Glioblastoma Multiforme (TCGA, PanCancer Atlas)	1.6891891891891893	mrnaExpressionLow	10
+Glioblastoma Multiforme (TCGA, PanCancer Atlas)	1.6891891891891893	mrnaExpressionHigh	10
+Glioblastoma Multiforme (TCGA, PanCancer Atlas)	0.16891891891891891	amp	1
+Glioblastoma Multiforme (TCGA, PanCancer Atlas)	0.33783783783783783	mutated	2

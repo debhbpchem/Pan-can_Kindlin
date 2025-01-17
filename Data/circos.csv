@@ -1,0 +1,332 @@
+FERM,Tumor Type,Mutation,Zscore,Impact,ID
+FERMT1,Lung cancer,5UTR ,-0.31052312,High,1
+FERMT1,Skin cancer,Downstream ,-1.766332144,High,2
+FERMT1,Skin cancer,5UTR ,-1.038678617,High,3
+FERMT1,Endometrial cancer,5UTR ,0.024692526,High,4
+FERMT1,Skin cancer,Upstream ,-1.110702961,High,5
+FERMT1,Endometrial cancer,"Downstream,Intron ",-0.344684324,High,6
+FERMT1,Endometrial cancer,Upstream ,-1.204982274,High,7
+FERMT1,Renal Cancer,"5UTR,Downstream ",-0.927072431,High,8
+FERMT1,Endometrial cancer,5UTR ,-0.200633912,High,9
+FERMT1,Colon cancer,Splice Region ,0.713168793,High,10
+FERMT1,Endometrial cancer,"Downstream,Intron ",-0.862043465,High,11
+FERMT1,Bladder cancer,Splice Region ,0.300731949,High,12
+FERMT1,Skin cancer,5UTR ,-1.34002524,High,13
+FERMT1,Skin cancer,5UTR ,-1.068282044,High,14
+FERMT1,Lung cancer,"5UTR,Downstream ",-0.025441526,Low,15
+FERMT1,Endometrial cancer,5UTR ,-0.423506478,Low,16
+FERMT1,Skin cancer,5UTR ,-1.600638602,Low,17
+FERMT1,Skin cancer,"Downstream,Intron ",-1.503981383,Low,18
+FERMT1,Liver cancer,SpliceRegion ,-0.838959765,Low,19
+FERMT1,Liver cancer,Upstream ,-1.234704439,Low,20
+FERMT1,Endometrial cancer,5UTR ,0.054608525,Low,21
+FERMT1,Gastric cancer,5UTR ,0.180447635,Low,22
+FERMT1,Endometrial cancer,Upstream ,-0.209173221,Low,23
+FERMT1,Skin cancer,Upstream ,-2.034557376,Low,24
+FERMT1,Gastric cancer,Upstream ,0.608780189,Low,25
+FERMT1,Brain cancer,"5UTR,Downstream ",0.430909292,Low,26
+FERMT1,Skin cancer,"Downstream,Intron ",-1.746418332,Low,27
+FERMT1,Skin cancer,Upstream ,-1.958914216,Low,28
+FERMT1,Gastric cancer,"5UTR,Downstream ",0.3506157,Low,29
+FERMT1,Skin cancer,Splice Region ,-0.932231756,Low,30
+FERMT1,Bladder cancer,Upstream ,-0.232860085,Low,31
+FERMT1,Head and Neck cancer,5UTR ,-0.906707748,Low,32
+FERMT1,Endometrial cancer,Upstream ,0.155269387,Low,33
+FERMT1,Skin cancer,"5UTR 
+Downstream ",-2.061386937,Low,34
+FERMT1,Skin cancer,5UTR ,-1.011811901,Low,35
+FERMT1,Colon cancer,"5UTR,Downstream ",0.448929697,Low,36
+FERMT1,Breast cancer,Upstream ,-0.863580998,Low,37
+FERMT1,Brain cancer,"5UTR,Downstream ",0.331844716,Low,38
+FERMT1,Lung cancer,Upstream ,-1.167602655,Low,39
+FERMT1,Brain cancer,"5UTR,Downstream ",-0.369913074,Low,40
+FERMT1,Gastric cancer,Downstream ,0.603196237,Low,41
+FERMT1,Renal cancer,5UTR ,-1.393582637,Low,42
+FERMT1,Breast Cancer,"Downstream,Intron ",-0.628522956,Low,43
+FERMT1,Colon Cancer,Upstream ,0.60747593,Low,44
+FERMT1,Lung cancer,5UTR ,0.077720624,Low,45
+FERMT1,Endometrial cancer,5UTR ,-0.058011721,Low,46
+FERMT1,Endometrial cancer,Upstream ,-0.485032161,Low,47
+FERMT1,Bladder cancer,5UTR,-0.36156276,Low,48
+FERMT1,Breast cancer,"Downstream,Intron ",-1.167602655,Low,49
+FERMT1,Skin cancer,Upstream ,-1.974886427,Low,50
+FERMT1,Breast cancer,5UTR ,-0.316728141,Low,51
+FERMT1,Endometrial cancer,Upstream ,-0.301456953,Low,52
+FERMT1,Skin cancer,Upstream ,-1.137104814,Low,53
+FERMT1,Endometrial cancer,5UTR ,-0.589971853,Low,54
+FERMT1,Skin cancer,"Downstream,Intron ",-0.471374754,Low,55
+FERMT1,Endometrial cancer,5UTR ,-0.758253693,Low,56
+FERMT1,Colon cancer,3UTR,0.724313808,Low,57
+FERMT1,Endometrial cancer,3UTR ,-0.354336318,Low,58
+FERMT1,Lung cancer,3UTR,0.027106227,Low,59
+FERMT1,Endometrial cancer,3UTR ,-1.204982274,Low,60
+FERMT1,Breast cancer,Upstream,-1.515351534,Low,61
+FERMT1,Breast cancer,Upstream ,-1.022262701,Low,62
+FERMT1,Skin cancer,Downstream,-1.476937074,Low,63
+FERMT1,Gastric cancer,Downstream,0.200986705,Low,64
+FERMT1,Lung cancer,Upstream ,-0.085346367,Low,65
+FERMT1,Liver cancer,Upstream,-1.151954175,Low,66
+FERMT1,Bladder cancer,Upstream,0.038883111,Low,67
+FERMT1,Skin cancer,3UTR ,-2.052370042,Low,68
+FERMT1,Colon cancer,"Downstream, Upstream ",0.82497467,Low,69
+FERMT1,Endometrial cancer,Downstream,-0.612918101,Low,70
+FERMT1,Head and Neck cancer,"Downstream,Synonymous",-0.062229353,Low,71
+FERMT1,Bladder cancer,"Upstream,5UTR ",0.279322003,Low,72
+FERMT1,Skin cancer,"Downstream,Upstream ",-1.466541067,Low,73
+FERMT1,Pancreatic cancer,3UTR ,0.095353254,Low,74
+FERMT1,Liver cancer,Downstream ,-1.672256366,Low,75
+FERMT1,Gastric cancer,Downstream ,0.21264815,Low,76
+FERMT1,Skin cancer,Downstream ,-1.499371948,Low,77
+FERMT1,Skin cancer,"Upstream,Downstream ",-1.068282044,Low,78
+FERMT1,Skin cancer,Downstream ,-1.088719791,Low,79
+FERMT1,Skin cancer,Downstream ,-1.735917216,Low,80
+FERMT1,Endometrial cancer,Downstream,-0.426921578,Low,81
+FERMT1,Endometrial cancer,Downstream ,0.009773906,Low,82
+FERMT1,Endometrial cancer,Downstream ,-0.166435242,Low,83
+FERMT1,Skin cancer,Upstream ,-1.581220567,Low,84
+FERMT1,Brain cancer,3UTR,0.153718187,Low,85
+FERMT1,Lung cancer,Upstream ,0.600530932,Low,86
+FERMT1,Skin cancer,"Upstream,Downstream ",-1.787710284,Low,87
+FERMT1,Skin cancer,"Upstream,Downstream",-1.555156932,Low,88
+FERMT1,Endometrial cancer,Downstream ,-0.204339049,Low,89
+FERMT2,Gastric cancer,"3UTR,5UTR ",0.397251249,Low,90
+FERMT2,Rectal cancer,Upstream ,-0.044481407,Low,91
+FERMT2,Bladder cancer,"Downstream,Upstream",0.14423313,Low,92
+FERMT2,Renal cancer,"Upstream,Downstream",0.423006944,Low,93
+FERMT2,Endometrial cancer,Upstream ,-0.43153833,Low,94
+FERMT2,Lung cancer,"Upstream,Downstream ",0.071597255,High,95
+FERMT2,Gastric cancer,Upstream ,0.147429308,High,96
+FERMT2,Colon cancer,"Upstream,Downstream",0.004625997,Low,97
+FERMT2,Skin cancer,3UTR ,0.391814655,Low,98
+FERMT2,Gastric cancer,"Upstream,Downstream ",0.296954632,Low,99
+FERMT2,Lung cancer,"Upstream,Downstream ",0.317147865,Low,100
+FERMT2,Gastric cancer,5UTR,0.089593673,High,101
+FERMT2,Breast cancer,"Upstream,Downstream",0.089593673,Low,102
+FERMT2,Oral cancer,"Upstream,Downstream",3.970854487,Low,103
+FERMT2,Lung cancer,Intron,0.136085558,Low,104
+FERMT2,Lung cancer,"Upstream,Downstream",0.364505044,Low,105
+FERMT2,Skin cancer,"
+5UTR,Upstream,Downstream",-0.34728508,Low,106
+FERMT2,Lung cancer,"
+StopLost,*664S,*668S
+",0.156812358,High,107
+FERMT2,Liver cancer,StartLost,4.213427437,Low,108
+FERMT2,Renal cancer,"5UTR,5UTR",0.093446038,Low,109
+FERMT2,Endometrial cancer,Downstream,0.184673123,Low,110
+FERMT2,Endometrial cancer,"Upstream,Downstream",-0.008657102,Low,111
+FERMT2,Renal cancer,"5UTR,Y500*,Upstream,Downstream",0.234655651,Low,112
+FERMT2,Endometrial cancer,"Upstream,Downstream,Intron",0.031874355,Low,113
+FERMT2,Breast Cancer,"Upstream,Downstream",0.311778187,Low,114
+FERMT2,Cervical cancer,"Upstream,Downstream",0.07973343,Low,115
+FERMT2,Endometrial cancer,"Upstream,Downstream",-0.005951508,High,116
+FERMT2,Endometrial cancer,"Upstream,Downstream,Splice",-0.216300893,High,117
+FERMT2,Brain cancer,"5UTR S6*, S186*,Upstream",0.584712533,Low,118
+FERMT2,Renal cancer,"5UTR,Upstream",0.551821635,Low,119
+FERMT2,Lung cancer,"Upstream,Downstream,Splice",0.036565575,Low,120
+FERMT2,Colon cancer,Upstream,-0.160877443,High,121
+FERMT2,Colon cancer,"5UTR,Upstream",0.263764856,Low,122
+FERMT2,Gastric cancer,"Upstream,Downstream",0.089593673,High,123
+FERMT2,Cervical cancer,Upstream,0.097248044,Low,124
+FERMT2,Endometrial cancer,"Upstream,Upstream",-0.222471505,Low,125
+FERMT2,Endometrial cancer,"Upstream,Downstream",0.196993288,Low,126
+FERMT2,Endometrial cancer,"Upstream,Upstream",-0.103975853,High ,127
+FERMT2,Malignant Lymphoma,"Upstream,Downstream",4.11600852,High,128
+FERMT2,Endometrial cancer,"Upstream,Downstream",0.073652736,Low,129
+FERMT2,Gastric cancer,"Upstream,Downstream",-0.00327085,Low,130
+FERMT2,Endometrial cancer,"Upstream,Downstream",0.295047417,High,131
+FERMT2,Skin cancer,"5UTR,Upstream",0.223860004,Low,132
+FERMT2,Pediatric Brain Tumor,"Upstream,Downstream",4.391860139,High,133
+FERMT2,Bladder cancer,"Upstream,Downstream",-0.263830732,Low,134
+FERMT2,Endometrial cancer,"Upstream,Downstream",0.27422819,Low,135
+FERMT2,Colon cancer,"Upstream,Downstream",0.050201633,Low,136
+FERMT2,Colon cancer,"Upstream,Downstream",-0.154524787,Low,137
+FERMT2,Pancreatic cancer,"Splice Region,Upstream",4.114154687,High,138
+FERMT2,Colon cancer,"Upstream,Downstream",-0.166435242,Low,139
+FERMT2,Renal cancer,"Upstream,Downstream",0.304460837,Low,140
+FERMT2,Liver cancer,"Upstream,Downstream",0.150590745,Low,141
+FERMT2,Endometrial cancer,"Upstream,Downstream",0.401263028,Low,142
+FERMT2,Ovarian cancer,"Upstream,Downstream",4.079968711,Low,143
+FERMT2,Endometrial cancer,"Upstream,Downstream",-0.025441526,Low,144
+FERMT2,Endometrial cancer,"Upstream,Downstream",0.210096824,Low,145
+FERMT2,Skin cancer,"Upstream,Downstream",0.265887853,Low,146
+FERMT2,Endometrial cancer,"5UTR,Upstream",0.009773906,Low,147
+FERMT2,Endometrial cancer,"Upstream,Downstream",-0.077664426,Low,148
+FERMT3,Rectal cancer,"Upstream,Downstream",-0.275159628,High,149
+FERMT3,Lung cancer,"Upstream,Downstream",0.52051733,High,150
+FERMT3,Colon cancer,"Upstream,Downstream",0.192944276,High,151
+FERMT3,Blood cancer,Upstream,0.622132994,High,152
+FERMT3,Brain cancer,"Upstream,Downstream",0.024692526,High,153
+FERMT3,Endometrial cancer,"Upstream,Downstream",0.119071976,High,154
+FERMT3,Breast cancer,"Upstream,Downstream",4.920227992,High,155
+FERMT3,Cervical cancer,"5UTR,Upstream",0.077720624,High,156
+FERMT3,Skin cancer,"Upstream,Downstream",0.691963909,High,157
+FERMT3,Endometrial cancer,"Upstream,Downstream",-0.095060233,High,158
+FERMT3,Breast cancer,"StartLost,Upstream",0.110176809,High,159
+FERMT3,Renal cancer,"Splice Region,Upstream",0.06534219,High,160
+FERMT3,Lung cancer,Upstream,0.075693792,High,161
+FERMT3,Brain cancer,"Upstream,Downstream",0.115546487,High,162
+FERMT3,Bladder cancer,"5UTR,Upstream",0.741302538,High,163
+FERMT3,Endometrial cancer,"Upstream,Downstream",-0.144814197,High,164
+FERMT3,Head and Neck cancer,"Upstream,Downstream",0.179025386,High,165
+FERMT3,Head and Neck cancer,"Upstream,Downstream",0.017328859,High,166
+FERMT3,Brain cancer,Upstream,-0.132906422,High,167
+FERMT3,Skin cancer,"Upstream,Downstream",0.348234929,High,168
+FERMT3,Bladder cancer,"Upstream,Downstream",0.089593673,Low,169
+FERMT3,Liver cancer,"Upstream,Downstream",3.743246685,Low,170
+FERMT3,Rectal cancer,"Upstream,Downstream",-0.275159628,Low,171
+FERMT3,Lung cancer,"5UTR,Upstream",-0.011388102,Low,172
+FERMT3,Colon cancer,"5UTR,Upstream",-0.155423858,Low,173
+FERMT3,Breast cancer,"Upstream,Downstream",0.106541145,Low,174
+FERMT3,Skin cancer,"Upstream,Downstream",0.745399075,Low,175
+FERMT3,Lung cancer,"5UTR,Upstream",0.05894964,Low,176
+FERMT3,Skin cancer,"5UTR,Upstream",0.776246428,Low,177
+FERMT3,Lung cancer,"Upstream,Downstream",-0.186268063,Low,178
+FERMT3,Endometrial cancer,"Upstream,Downstream",0.029500062,Low,179
+FERMT3,Endometrial cancer,"Upstream,Downstream,splice",0.149014322,Low,180
+FERMT3,Brain cancer,"Upstream,Downstream",-0.265140866,Low,181
+FERMT3,Endometrial cancer,Upstream,0.031874355,Low,182
+FERMT3,Skin cancer,"Upstream,Downstream",-0.25800708,Low,183
+FERMT3,Colon cancer,"Upstream,Downstream",0.259471799,Low,184
+FERMT3,Colon cancer,Upstream,0.155269387,Low,185
+FERMT3,Bladder cancer,"Upstream,Downstream",0.137733433,Low,186
+FERMT3,Bladder cancer,"Upstream,Downstream",-0.428068914,Low,187
+FERMT3,Colon cancer,"Upstream,Downstream",0.313579117,Low,188
+FERMT3,Colon cancer,"Upstream,Downstream",0.202305752,Low,189
+FERMT3,Colon cancer,"Upstream,Downstream",0.309055709,Low,190
+FERMT3,Head and Neck cancer,"5UTR,Upstream",0.034229423,Low,191
+FERMT3,Renal cancer,"Upstream,Upstream",0.012314091,Low,192
+FERMT3,Lung cancer,"Upstream,Downstream",0.2250795,Low,193
+FERMT3,Skin cancer,"Upstream,Downstream",0.19430022,Low,194
+FERMT3,Colon cancer,"Upstream,Downstream",0.104706127,Low,195
+FERMT3,Lung cancer,"Upstream,Downstream",0.115546487,Low,196
+FERMT3,Head and Neck cancer,"5UTR,Upstream",0.071597255,Low,197
+FERMT3,Endometrial cancer,"Upstream,Downstream",-0.200108439,Low,198
+FERMT3,Rectal cancer,Upstream,-0.011388102,Low,199
+FERMT3,Cervical cancer,"Upstream,Downstream",0.273198633,Low,200
+FERMT3,Prostate cancer,Upstream,-0.107390953,Low,201
+FERMT3,Gastric cancer,"5UTR,Upstream",0.139372025,Low,202
+FERMT3,Gastric cancer,Upstream: FERMT3,0.139372025,Low,203
+FERMT3,Skin cancer,"Upstream: NUDT22 
+Downstream: TRPT1 - FERMT3",-0.0359977,Low,204
+FERMT3,Endometrial cancer,"Upstream: NUDT22 
+Downstream: TRPT1 - FERMT3",-0.025441526,Low,205
+FERMT3,Endometrial cancer,"Upstream: FERMT3 
+Synonymous: FERMT3 A27A 
+Exon: FERMT3 
+Downstream: TRPT1 - FERMT3",0.007211341,Low,206
+FERMT3,Endometrial cancer,"5UTR: FERMT3 
+Upstream: FERMT3",0.050201633,Low,207
+FERMT3,Bladder cancer,"Upstream: NUDT22 
+Downstream: TRPT1 - FERMT3",0.369732258,Low,208
+FERMT3,Head and Neck cancer,"Upstream: NUDT22 
+Downstream: TRPT1 - FERMT3",-0.079046135,Low,209
+FERMT3,Skin cancer,"Start Lost: FERMT3 M1V 
+Upstream: FERMT3",0.691963909,Low,210
+FERMT3,Breast cancer,"Splice Region: FERMT3 
+Upstream: FERMT3",-0.231687304,Low,211
+FERMT3,Oral cancer,Upstream: FERMT3,3.774596966,Low,212
+FERMT3,Gastric cancer,"Upstream: FERMT3 
+Exon: FERMT3 
+Downstream: TRPT1",0.200986705,Low,213
+FERMT3,Endometrial cancer,"5UTR: FERMT3
+Upstream: FERMT3",-0.082529402,Low,214
+FERMT3,Bladder cancer,"Upstream: FERMT3 
+Synonymous: FERMT3 P57P 
+Downstream: TRPT1 - FERMT3",0.251803012,Low,215
+FERMT3,Lung cancer,"Upstream: FERMT3 
+Exon: FERMT3 
+Downstream: TRPT1 - FERMT3",0.382757538,Low,216
+FERMT3,Endometrial cancer,"Upstream: FERMT3 
+Exon: FERMT3 
+Downstream: TRPT1 - FERMT3",0.019804187,Low,217
+FERMT3,Bladder cancer,Upstream: FERMT3,-0.267778973,Low,218
+FERMT3,Lung cancer,"Stop Gained: FERMT3 Y504*, Y500*
+Upstream: FERMT3
+Downstream: TRPT1 - FERMT3",0.075693792,Low,219
+FERMT3,Cervical cancer,"Upstream: FERMT3 
+Exon: FERMT3 
+Downstream: TRPT1",0.102859459,Low,220
+FERMT3,Endometrial cancer,"Upstream: FERMT3 
+Exon: FERMT3 
+Downstream: TRPT1 - FERMT3",-0.578179049,Low,221
+FERMT3,Breast cancer,"Upstream: NUDT22 
+Downstream: TRPT1 - FERMT3",0.270087916,Low,222
+FERMT3,Pancreatic cancer,"5UTR: FERMT3 
+Upstream: FERMT3",0.291195052,Low,223
+FERMT3,Skin cancer,"5UTR: FERMT3 
+Upstream: FERMT3",0.215177291,Low,224
+FERMT3,Breast cancer,Exon: FERMT3,0.299792209,Low,225
+FERMT3,Lung cancer,"Upstream: NUDT22 
+Exon: FERMT3 
+Downstream: TRPT1 - FERMT3",0.150590745,Low,226
+FERMT3,Lung cancer,"Upstream: NUDT22 
+Downstream: TRPT1 - FERMT3",-0.016928256,Low,227
+FERMT3,Gastric cancer,"5UTR: FERMT3 
+Upstream: FERMT3",0.04572694,Low,228
+FERMT3,Endometrial cancer,"5UTR: FERMT3 
+Upstream: FERMT3",0.245064888,Low,229
+FERMT3,Endometrial cancer,"Upstream: FERMT3 
+Exon: FERMT3 
+Downstream: TRPT1 - FERMT3",-0.03569924,Low,230
+FERMT3,Breast cancer,"Upstream: FERMT3 
+Synonymous: FERMT3 A17A 
+Exon: FERMT3 
+Downstream: TRPT1 - FERMT3",0.330153727,Low,231
+FERMT3,Bladder cancer,Exon: FERMT3,0.741302538,Low,232
+FERMT3,Gastric cancer,"Splice Region: FERMT3 
+Upstream: FERMT3 
+Downstream: TRPT1 - FERMT3",0.017328859,Low,233
+FERMT3,Endometrial cancer,"Upstream: FERMT3 
+Exon: FERMT3 
+Downstream: TRPT1 - FERMT3",-0.016928256,Low,234
+FERMT3,Endometrial cancer,Upstream: FERMT3,-0.15950443,Low,235
+FERMT3,Endometrial cancer,"Upstream: FERMT3 
+Exon: FERMT3 
+Downstream: TRPT1 - FERMT3",-0.08854841,Low,236
+FERMT3,Endometrial cancer,"Upstream: NUDT22 
+Exon: FERMT3 
+Downstream: TRPT1 - FERMT3 
+Intron: FERMT3",0.081732403,Low,237
+FERMT3,Skin cancer,Exon: FERMT3,0.524021581,Low,238
+FERMT3,Lung cancer,Upstream: FERMT3,0.04572694,Low,239
+FERMT3,Skin cancer,"Upstream: FERMT3 
+Exon: FERMT3 
+Downstream: TRPT1 - FERMT3",0.063226913,Low,240
+FERMT3,Rectal cancer,"Upstream: FERMT3 
+Exon: FERMT3 
+Downstream: TRPT1 - FERMT3",-0.016928256,Low,241
+FERMT3,Endometrial cancer,"Upstream: FERMT3 
+Exon: FERMT3 
+Downstream: TRPT1 - FERMT3",-0.036296467,Low,242
+FERMT3,Skin cancer,"Upstream: FERMT3 
+Exon: FERMT3 
+Downstream: TRPT1 - FERMT3",0.343414112,Low,243
+FERMT3,Gastric cancer,"Upstream: FERMT3 
+Exon: FERMT3 
+Downstream: TRPT1 - FERMT3",0.410414098,Low,244
+FERMT3,Gastric cancer,"5UTR: FERMT3 
+Upstream: FERMT3",0.684537566,Low,245
+FERMT3,Renal cancer,"Start Gained: FERMT3 
+Upstream: FERMT3",-0.21298948,Low,246
+FERMT3,Bladder cancer,"Upstream: FERMT3 
+Synonymous: FERMT3 P57P 
+Downstream: TRPT1 - FERMT3",0.210096824,Low,247
+FERMT3,Brain cancer,"Upstream: NUDT22 
+Downstream: TRPT1 - FERMT3",0.132761529,Low,248
+FERMT3,Lung cancer,"Upstream: FERMT3 
+Downstream: STIP1",-0.005951508,Low,249
+FERMT3,Breast cancer,"Upstream: FERMT3 
+Exon: FERMT3 
+Downstream: TRPT1 - FERMT3",-0.121867948,Low,250
+FERMT3,Bladder cancer,"5UTR: FERMT3 
+Upstream: FERMT3",-0.100600388,Low,251
+FERMT3,Brain cancer,"Upstream: FERMT3 
+Exon: FERMT3 
+Downstream: TRPT1 - FERMT3",-0.132906422,Low,252
+FERMT3,Bladder cancer,Upstream: FERMT3,-0.192849791,Low,253
+FERMT3,Head and Neck cancer,"Upstream: NUDT22 
+Downstream: TRPT1 - FERMT3",0.085689597,Low,254
+FERMT3,Renal cancer,"Upstream: FERMT3 
+Exon: FERMT3",0.255114425,Low,255
+FERMT3,Endometrial cancer,"5UTR: FERMT3 
+Upstream: FERMT3",0.3506157,Low,256

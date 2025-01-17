@@ -1,0 +1,21 @@
+Time,Treatment,Replicates,Bt colonies,Pe colonies,CFU_Bt,CFU_Pe,,,
+0th hour,MonoBt vs. Ancestral Pe,1,4,59,#NAME?,0.295,,,
+0th hour,MonoBt vs. Ancestral Pe,2,1,760,0.005,3.8,,,
+0th hour,MonoBt vs. Ancestral Pe,3,463,122,2.315,0.61,,,
+0th hour,CoBt vs Ancestral Pe,1,109,138,0.545,0.69,,,0.002215
+0th hour,CoBt vs Ancestral Pe,2,435,539,2.175,2.695,,,0.00173
+0th hour,CoBt vs Ancestral Pe,3,346,410,1.73,2.05,,,0.00073
+24th hour,MonoBt vs. Ancestral Pe,1,29,2693,0.000145,0.013465,,,0.00155833333333333
+24th hour,MonoBt vs. Ancestral Pe,2,11,1711,0.000055,0.008555,,,
+24th hour,MonoBt vs. Ancestral Pe,3,43,3243,0.000215,0.016215,,,
+24th hour,CoBt vs Ancestral Pe,1,1655,443,0.008275,0.002215,,,
+24th hour,CoBt vs Ancestral Pe,2,3896,346,0.01948,0.00173,,,
+24th hour,CoBt vs Ancestral Pe,3,1223,146,0.006115,0.00073,,,
+,,,,,,,,0_Bt,0.78
+,,,,,,,,0_Pe,1.56833333333333
+,,,,,,,,24_Bt,0.000138333333333333
+,,,,,,,,24_Pe,0.012745
+,,,,,,,,0_Bt,1.48333333333333
+,,,,,,,,0_Pe,1.81166666666667
+,,,,,,,,24_Bt,0.01129
+,,,,,,,,24_Pe,0.00155833333333333
